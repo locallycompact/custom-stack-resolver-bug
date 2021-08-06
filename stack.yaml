@@ -1,0 +1,5 @@
+resolver: 
+  url: https://raw.githubusercontent.com/EdutainmentLIVE/snapshot/f5f60d88a128aff3da0e5fd508a3e2aacd2ca109/snapshot.yaml
+  name: f
+packages:
+- .
